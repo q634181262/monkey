@@ -1,0 +1,147 @@
+*{
+	margin: 0;
+	padding:0;
+	list-style: none;
+	text-decoration: none;
+}
+.clear:after{
+	content: "";
+	clear: both;
+	display: block;
+}
+.all{
+	width: 1920px;
+    height: 1002px;
+    font-family: "Microsoft Yahei"
+}
+.top{
+	width: 1920px;
+	height:203px;
+	background:url(./images/xw2.png) no-repeat;
+	position: relative;
+}
+.logo{
+	width: 199px;
+	height: 48px;
+	background:url(./images/logo.png) no-repeat;
+	position: absolute;
+	left:274px;
+	top: 53px;
+}
+.top1{
+	font-size: 18px;
+	width: 611px;
+	height: 24px;
+	border-bottom: 3px #67615f solid;
+	position: absolute;
+	left: 963px;
+	top: 71px;
+}
+.top1 a{
+	color: #231815;
+	font-weight: bold;
+	font-family: "Microsoft Yahei"
+}
+.top11:hover{
+	border-bottom: 4px #c90714 solid;
+}
+.top12:hover{
+	border-bottom: 4px #c90714 solid;
+}
+.top11{
+	margin-left: 25px;
+}
+.top3{
+	width: 1920px;
+	height:60px;
+	background-color: #838485;
+	position: absolute;
+	top: 140px;
+	opacity: 0.5;
+}
+.top2{
+	height: 19px;
+	width: 160px;
+	font-size: 14px;
+	position: absolute;
+	top: 160px;
+	left: 300px;
+}
+.top2 a,span{
+	color: #f4f4f4;
+	font-weight: bold;
+
+}
+.mid{
+	width: 1920px;
+	height: 635px;
+	border-bottom: 1px #dad7d7 solid; 
+	position: relative;
+}
+.mid1{
+	width: 302px;
+	height: 30px;
+	position: absolute;
+	left: 270px;
+	top: 50px
+	}
+.mid11{
+	color: #e60012;
+	font-size: 24px;
+}
+.mid12{
+	font-size: 24px;
+	color: #000000;
+}
+.mid13{
+	font-size: 16px;
+	color: #747272;
+}
+.mid2{
+	background: url(./images/1.png) no-repeat;
+	width: 1360px;
+	height: 390px;
+	position: absolute;
+	left: 270px;
+	top: 125px;
+}
+.foot{
+	height: 164px;
+	width: 1920px;
+}
+.footleft{
+	float: left;
+	width: 242px;
+	height: 55px;
+	border-right: 3px  #c2191f solid;
+	margin-top: 55px;
+	margin-left: 350px;
+}	
+.footleft1{
+ background:url(./images/logo.png) no-repeat;
+ width: 200px;
+ height: 55px;
+
+}
+.footcenter{
+	float: left;
+	width: 545px;
+	height: 74px;
+	text-align: right;
+	margin-top: 60px;
+	margin-left: 321px;
+	color: #767475;
+	font-family: "Microsoft Yahei"
+}
+.footcenter a{
+	color: #767475;
+	font-family: "Microsoft Yahei"
+}
+.footright{
+	float: left;
+	width: 69px;
+	height: 69px;
+	background:url(./images/二维码.png) no-repeat;
+	margin-top: 55px;
+    margin-left: 10px;
+}
