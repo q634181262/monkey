@@ -1,0 +1,76 @@
+*{
+	margin:0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	font-family: "Microsoft Yahei"
+}
+.all{
+	width: 1600px;
+	height: 720px;
+
+}
+.all1{
+	width: 1600px;
+	height: 100%;
+	background: url(./images/bj.png) no-repeat;
+	background-size: cover;
+}
+.top {
+	width: 1550px;
+	height: 34px;
+	background-color: #262626;
+	margin: 0 auto;
+}
+.top .s1{
+	font-size: 15px;
+	color: #ffffff;
+	line-height: 34px;
+	margin-left: 150px;
+}
+.top .a1{
+	font-size: 11px;
+	color: #ffffff;
+	line-height: 34px;
+	margin-left: 113px;
+}
+.top .a2{
+	font-size: 11px;
+	color: #ffffff;
+	line-height: 34px;
+	margin-left: 63px;
+}
+.top img{
+	width: 18px;
+	height: 18px;
+	margin-left: 50px;
+
+}
+.mid{
+	width: 1140px;
+	height: 540px;
+	background: url(./images/3.png) no-repeat;
+	margin-left: 231px;
+	margin-top: 21px;
+}
+.footer{
+	width: 1600px;
+	height: 60px;
+	background-color: #f4f4f4;
+	line-height: 60px;
+}
+.footer .a1{
+	font-size: 10px;
+	color: #666666;
+	margin-left: 228px;
+}
+.footer .a2{
+	font-size: 10px;
+	color: #666666;
+	margin-left: 50px;
+}
+.footer .s1{
+	font-size: 10px;
+	color: #666666;
+	margin-left: 106px;
+}

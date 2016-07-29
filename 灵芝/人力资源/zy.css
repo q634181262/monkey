@@ -1,0 +1,163 @@
+*{
+	margin:0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	font-family: "Microsoft Yahei"
+}
+.clear:after{
+	content: "";
+	clear: both;
+	display: block;
+}
+.all{
+	width: 1600px;
+	height:782px;
+
+}
+.all1{
+	width: 100%;
+	height: 735px;
+	background: url(./images/bg.png) no-repeat;
+	background-size: cover;
+}
+.top {
+	width: 1550px;
+	height: 34px;
+	background-color: #262626;
+	margin: 0 auto;
+}
+.top .s1{
+	font-size: 15px;
+	color: #ffffff;
+	line-height: 34px;
+	margin-left: 150px;
+}
+.top .a1{
+	font-size: 11px;
+	color: #ffffff;
+	line-height: 34px;
+	margin-left: 113px;
+}
+.top .a2{
+	font-size: 11px;
+	color: #ffffff;
+	line-height: 34px;
+	margin-left: 63px;
+}
+.top img{
+	width: 18px;
+	height: 18px;
+	margin-left: 50px;
+	
+
+}
+.mid{
+	width: 1600px;
+	height: 608px;
+}
+
+
+.mid1{
+	width: 1142px;
+	height: 573px;
+	background: url(./images/111.png) no-repeat;
+	margin-top: 40px;
+	margin-left: 229px;
+	overflow: hidden;
+}
+.mid11{
+	width: 108px;
+	height: 28px;
+	background-color: #cb00da;
+	color: white;
+	text-align: center;
+	margin-top: 23px;
+	margin-left: 33px;
+}
+.mid12{
+	width: 1082px;
+	height: 456px;
+	background-color: white;
+	margin-left: 33px;
+	overflow: hidden;
+}
+.p1{
+	font-size: 14px;
+	color: #3b3b3b;
+    margin-top: 30px;
+    margin-left: 30px;
+    font-weight: bold;
+}
+.p2{
+	font-size: 11px;
+	color: #3b3b3b;
+	margin-top:10px;
+	margin-left: 33px;
+}
+.p3{
+	width: 128px;
+	height: 21px;
+	border-left: 4px #ef3a05 solid;
+	font-size: 12px;
+	color: #ef3a05;
+	line-height: 21px;
+	font-weight: bold;
+	text-align: center;
+	margin-left: 33px;
+	margin-top: 16px;
+}
+.p4{
+	font-size: 11px;
+	color: #3b3b3b;
+    margin-top: 14px;
+    margin-left: 30px;
+
+}
+.p5{
+	font-size: 11px;
+	color: #3b3b3b;
+    margin-top: 5px;
+    margin-left: 30px;
+
+}
+.p6{
+	width: 158px;
+	height: 20px;
+	border-left: 4px #ef3a05 solid;
+	font-size: 12px;
+	color: #ef3a05;
+	line-height: 21px;
+	font-weight: bold;
+	text-align: center;
+	margin-left: 33px;
+	margin-top: 16px;
+}
+.p7{
+	font-size: 12px;
+	color: #3b3b3b;
+	font-weight: bold;
+	margin-left: 33px;
+	margin-top: 15px;
+}
+.footer{
+	width: 1600px;
+	height: 60px;
+	background-color: #f4f4f4;
+	line-height: 60px;
+}
+.footer .a1{
+	font-size: 10px;
+	color: #666666;
+	margin-left: 228px;
+}
+.footer .a2{
+	font-size: 10px;
+	color: #666666;
+	margin-left: 50px;
+}
+.footer .s1{
+	font-size: 10px;
+	color: #666666;
+	margin-left: 106px;
+}

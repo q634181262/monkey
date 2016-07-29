@@ -1,0 +1,282 @@
+*{
+	margin:0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	font-family: "Microsoft Yahei"
+}
+.clear:after{
+	content: "";
+	clear: both;
+	display: block;
+}
+.all{
+	width: 1600px;
+	height: 880px;
+
+}
+.all1{
+	width: 100%;
+	height: 100%;
+	background: url(./images/bg.png) no-repeat;
+	background-size: cover;
+}
+.top {
+	width: 1550px;
+	height: 34px;
+	background-color: #262626;
+	margin: 0 auto;
+}
+.top .s1{
+	font-size: 15px;
+	color: #ffffff;
+	line-height: 34px;
+	margin-left: 150px;
+}
+.top .a1{
+	font-size: 11px;
+	color: #ffffff;
+	line-height: 34px;
+	margin-left: 113px;
+}
+.top .a2{
+	font-size: 11px;
+	color: #ffffff;
+	line-height: 34px;
+	margin-left: 63px;
+}
+.top img{
+	width: 18px;
+	height: 18px;
+	margin-left: 50px;
+
+}
+.mid{
+	width: 1600px;
+	height: 718px;
+}
+
+.mid1{
+	width: 1144px;
+	height: 45px;
+	border-bottom: 1px #1f1a2e solid;
+	color: #ffffff;
+	font-size: 18px;
+	margin:0 auto;
+	margin-top: 35px;
+}
+.mid2{
+	width: 1200px;
+	height: 485px;
+	margin:0 auto;
+	margin-top: 28px;
+}
+.mid21{
+	float: left;
+	width: 215px;
+	height: 232px;
+	background: white;
+}
+.mid2111{
+	width: 195px;
+	height: 180px;
+	background: url(./images/111.png) no-repeat;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+.mid211{
+	width: 215px;
+	height: 193px;
+	border-bottom: 1px black solid;
+}
+.mid212{
+	color: #3b3b3b;
+	font-size: 14px;
+	width: 215px;
+	height: 39px;
+	line-height: 39px;
+	text-align: center;
+}
+.mid22{
+	float: left;
+	width: 215px;
+	height: 232px;
+	background: white;
+	margin-left: 15px;
+}
+.mid2211{
+	width: 195px;
+	height: 180px;
+	background: url(./images/111.png) no-repeat;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+.mid221{
+	width: 215px;
+	height: 193px;
+	border-bottom: 1px black solid;
+}
+.mid222{
+	color: #3b3b3b;
+	font-size: 14px;
+	width: 215px;
+	height: 39px;
+	line-height: 39px;
+	text-align: center;
+}
+.mid23{
+	float: left;
+	width: 215px;
+	height: 232px;
+	background: white;
+	margin-left: 15px;
+}
+.mid2311{
+	width: 215px;
+	height: 190px;
+	background: url(./images/112.png) no-repeat;
+	margin-top: 5px;
+	
+}
+.mid231{
+	width: 215px;
+	height: 193px;
+	border-bottom: 1px black solid;
+}
+.mid232{
+	color: #3b3b3b;
+	font-size: 14px;
+	width: 215px;
+	height: 39px;
+	line-height: 39px;
+	text-align: center;
+}
+.mid24{
+	float: left;
+	width: 215px;
+	height: 232px;
+	background: white;
+	margin-top: 20px;
+}
+.mid2411{
+	width: 195px;
+	height: 180px;
+	background: url(./images/111.png) no-repeat;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+.mid241{
+	width: 215px;
+	height: 193px;
+	border-bottom: 1px black solid;
+}
+.mid242{
+	color: #3b3b3b;
+	font-size: 14px;
+	width: 215px;
+	height: 39px;
+	line-height: 39px;
+	text-align: center;
+}
+.mid25{
+	float: left;
+	width: 215px;
+	height: 232px;
+	background: white;
+	margin-left: 15px;
+	margin-top: 20px;
+}
+.mid2511{
+	width: 213px;
+	height: 180px;
+	background: url(./images/113.png) no-repeat;
+	margin-top: 5px;
+}
+.mid251{
+	width: 215px;
+	height: 193px;
+	border-bottom: 1px black solid;
+}
+.mid252{
+	color: #3b3b3b;
+	font-size: 14px;
+	width: 215px;
+	height: 39px;
+	line-height: 39px;
+	text-align: center;
+}
+.mid26{
+	float: left;
+	width: 215px;
+	height: 232px;
+	background: white;
+	margin-left: 15px;
+	margin-top: 20px;
+}
+.mid2611{
+	width: 213px;
+	height: 180px;
+	background: url(./images/111.png) no-repeat;
+	margin-top: 5px;
+}
+.mid261{
+	width: 215px;
+	height: 193px;
+	border-bottom: 1px black solid;
+}
+.mid262{
+	color: #3b3b3b;
+	font-size: 14px;
+	width: 215px;
+	height: 39px;
+	line-height: 39px;
+	text-align: center;
+}
+.mid27{
+	float: left;
+	width: 215px;
+	height: 232px;
+	background: white;
+	margin-left: 15px;
+	margin-top: 20px;
+}
+.mid2711{
+	width: 213px;
+	height: 190px;
+	background: url(./images/114.png) no-repeat;
+	margin-top: 5px;
+}
+.mid271{
+	width: 215px;
+	height: 193px;
+	border-bottom: 1px black solid;
+}
+.mid272{
+	color: #3b3b3b;
+	font-size: 14px;
+	width: 215px;
+	height: 39px;
+	line-height: 39px;
+	text-align: center;
+}
+.footer{
+	width: 1600px;
+	height: 60px;
+	background-color: #f4f4f4;
+	line-height: 60px;
+}
+.footer .a1{
+	font-size: 10px;
+	color: #666666;
+	margin-left: 228px;
+}
+.footer .a2{
+	font-size: 10px;
+	color: #666666;
+	margin-left: 50px;
+}
+.footer .s1{
+	font-size: 10px;
+	color: #666666;
+	margin-left: 106px;
+}
